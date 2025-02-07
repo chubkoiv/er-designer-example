@@ -1,0 +1,18 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .b {
+			fill: none;
+		}
+
+		.a {
+			stroke: #006ce0;
+			stroke-miterlimit: 10;
+		}</style>
+	</defs>
+	<g transform="translate(-1783.779 140.528)">
+		<path class="a" d="M1798.279-129.028h-3v3l-3-3h-7v-10h13Z"/>
+		<line class="a" transform="translate(1788.779 -135.028)" x2="6"/>
+		<line class="a" transform="translate(1788.779 -133.028)" x2="6"/>
+	</g>
+	<rect class="b" height="16" width="16"/>
+</svg>

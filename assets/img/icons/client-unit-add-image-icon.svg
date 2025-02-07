@@ -1,0 +1,17 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a {
+			fill: #006ce0;
+		}
+
+		.b {
+			fill: none;
+		}</style>
+	</defs>
+	<g transform="translate(1006.245 499.747)">
+		<circle class="a" cx="1.5" cy="1.5" r="1.5" transform="translate(-996.245 -495.747)"/>
+		<path class="a" d="M-1006.245-494.747h2v2h1v-2h2v-1h-2v-2h-1v2h-2Z"/>
+		<path class="a" d="M-1001.245-497.747v1h10v8l-2-2-2,1,2,3h-1l-5.872-6.71-5.128,4.71v-5h-1v8h16v-12Z"/>
+	</g>
+	<rect class="b" height="16" width="16"/>
+</svg>

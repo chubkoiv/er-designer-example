@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	fit=""
+	focusable="false"
+	height="100%"
+	id="svg234"
+	preserveAspectRatio="xMidYMid meet"
+	version="1.1"
+	viewBox="0 0 16 16"
+	width="100%"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<defs
+		id="defs222">
+		<style
+			id="style220">.we-item-entity-a, .we-item-entity-b {
+			fill: none;
+		}
+
+		.we-item-entity-b, .we-item-entity-c {
+			stroke: #006ce0;
+			stroke-linecap: round;
+			stroke-linejoin: round;
+		}
+
+		.we-item-entity-c {
+			fill: #006ce0;
+		} </style>
+	</defs>
+	<g
+		id="g232"
+		transform="translate(-2117.585 -238.671)">
+		<path
+			class="we-item-entity-b"
+			d="M2119.085,243.018l6.478-2.847,6.519,2.847-6.5,2.859Z"
+			id="path226"
+			style="stroke:#f97316;stroke-opacity:1"
+			transform="translate(0 0)"/>
+		<path
+			class="we-item-entity-b"
+			d="M2132.187,243.238v6.8l-6.5,3.119v-6.962Z"
+			id="path228"
+			style="stroke:#f97316;stroke-opacity:1"
+			transform="translate(-0.106 0.012)"/>
+		<path
+			class="we-item-entity-c"
+			d="M2119.085,243.238v6.8l6.5,3.119v-6.962Z"
+			id="path230"
+			style="stroke:#f97316;stroke-opacity:1;fill:#f97316;fill-opacity:1"
+			transform="translate(0 0.012)"/>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .b {
+			fill: none;
+		}
+
+		.b {
+			stroke: #006ce0;
+		}</style>
+	</defs>
+	<g transform="translate(16) rotate(90)">
+		<rect class="a" height="16" width="16"/>
+		<path class="b" d="M0,0,5.5,5.5,0,11" transform="translate(11 14) rotate(180)"/>
+	</g>
+</svg>

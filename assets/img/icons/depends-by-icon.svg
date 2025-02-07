@@ -1,0 +1,30 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a {
+			fill: #8095b3;
+		}
+
+		.b, .c {
+			fill: none;
+		}
+
+		.b {
+			stroke: #8095b3;
+			stroke-miterlimit: 10;
+		}
+
+		.d {
+			stroke: none;
+		}</style>
+	</defs>
+	<path class="a" d="M1,0H11a1,1,0,0,1,1,1v9a1,1,0,0,1-1,1H7.533V4.366H0V1A1,1,0,0,1,1,0Z"
+	      transform="translate(4 0)"/>
+	<g class="b" transform="translate(0 4)">
+		<rect class="d" height="11" rx="1" width="12"/>
+		<rect class="c" height="10" rx="0.5" width="11" x="0.5" y="0.5"/>
+	</g>
+	<rect class="c" height="16" width="16"/>
+	<line class="b" transform="translate(0.5 7.5)" x2="11"/>
+	<path class="b" d="M-598.682-446.369l1.869,1.839-2,1.968" transform="translate(605.813 455.369)"/>
+	<path class="b" d="M-600.945-446.369l-1.869,1.839,2,1.968" transform="translate(605.813 455.369)"/>
+</svg>

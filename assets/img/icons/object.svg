@@ -1,0 +1,27 @@
+<svg fit="" focusable="false" height="100%" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"
+     width="100%" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.we-item-entity-a, .we-item-entity-b {
+			fill: none;
+		}
+
+		.we-item-entity-b, .we-item-entity-c {
+			stroke: #006ce0;
+			stroke-linecap: round;
+			stroke-linejoin: round;
+		}
+
+		.we-item-entity-c {
+			fill: #006ce0;
+		} </style>
+	</defs>
+	<rect class="we-item-entity-a" height="16" width="16"></rect>
+	<g transform="translate(-2117.585 -238.671)">
+		<path class="we-item-entity-b" d="M2119.085,243.018l6.478-2.847,6.519,2.847-6.5,2.859Z"
+		      transform="translate(0 0)"></path>
+		<path class="we-item-entity-b" d="M2132.187,243.238v6.8l-6.5,3.119v-6.962Z"
+		      transform="translate(-0.106 0.012)"></path>
+		<path class="we-item-entity-c" d="M2119.085,243.238v6.8l6.5,3.119v-6.962Z"
+		      transform="translate(0 0.012)"></path>
+	</g>
+</svg>

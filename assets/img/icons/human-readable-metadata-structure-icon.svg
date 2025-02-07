@@ -1,0 +1,44 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .b, .e {
+			fill: none;
+		}
+
+		.b, .e {
+			stroke: #ed9c50;
+		}
+
+		.c {
+			fill: #fff;
+		}
+
+		.d {
+			fill: #ed9c50;
+		}
+
+		.e {
+			stroke-miterlimit: 10;
+		}
+
+		.f {
+			stroke: none;
+		}</style>
+	</defs>
+	<g transform="translate(487.352 227.671)">
+		<rect class="a" height="16" transform="translate(-487.352 -227.671)" width="16"/>
+		<g class="b" transform="translate(-486.352 -226.671)">
+			<rect class="f" height="14" width="14"/>
+			<rect class="a" height="13" width="13" x="0.5" y="0.5"/>
+		</g>
+		<rect class="c" height="10" transform="translate(-481.352 -221.671)" width="10"/>
+		<rect class="d" height="4" transform="translate(-486.352 -226.671)" width="14"/>
+		<rect class="c" height="2" transform="translate(-476.352 -225.671)" width="3"/>
+		<rect class="c" height="2" transform="translate(-480.352 -225.671)" width="3"/>
+		<g transform="translate(-1762.273 68.57)">
+			<path class="e"
+			      d="M1286.448-280.885c.836-1.263,2.942-1.443,3.829-1.5v-6.5s-3.237-.17-4,2.787c-.763-2.957-4-2.787-4-2.787v6.5c.887.057,2.993.236,3.83,1.5Z"
+			      transform="translate(0.144 0.143)"/>
+			<line class="e" transform="translate(1286.421 -286.241)" y2="5.338"/>
+		</g>
+	</g>
+</svg>

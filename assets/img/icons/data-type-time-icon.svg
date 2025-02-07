@@ -1,0 +1,23 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .c {
+			fill: none;
+		}
+
+		.a {
+			stroke: #8095b3;
+			stroke-miterlimit: 10;
+		}
+
+		.b {
+			stroke: none;
+		}</style>
+	</defs>
+	<g transform="translate(-1816.814 -33.301)">
+		<g class="a" transform="translate(1816.814 33.301)">
+			<circle class="b" cx="8" cy="8" r="8"/>
+			<circle class="c" cx="8" cy="8" r="7.5"/>
+		</g>
+		<path class="a" d="M1825.314,36.015v5.244l3,3.542"/>
+	</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .c {
+			fill: none;
+		}
+
+		.a {
+			stroke: #006ce0;
+			stroke-miterlimit: 10;
+		}
+
+		.b {
+			fill: #006ce0;
+		}
+
+		.d {
+			stroke: none;
+		}</style>
+	</defs>
+	<g transform="translate(978.745 499.747)">
+		<g class="a" transform="translate(-978.745 -497.747)">
+			<rect class="d" height="12" width="16"/>
+			<rect class="c" height="11" width="15" x="0.5" y="0.5"/>
+		</g>
+		<circle class="b" cx="1.5" cy="1.5" r="1.5" transform="translate(-968.745 -495.747)"/>
+		<path class="b" d="M-977.745-488.747l4-6,7,8h-11Z"/>
+		<path class="b" d="M-965.745-486.747l-2-3,2-1,2,2v2Z"/>
+	</g>
+	<rect class="c" height="16" width="16"/>
+</svg>

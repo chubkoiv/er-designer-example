@@ -1,0 +1,27 @@
+<svg height="16.008" viewBox="0 0 16.007 16.008" width="16.007" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a, .b, .c {
+			fill: none;
+		}
+
+		.a, .b {
+			stroke: #8095b3;
+		}
+
+		.a {
+			stroke-miterlimit: 10;
+		}
+
+		.d {
+			stroke: none;
+		}</style>
+	</defs>
+	<g transform="translate(2263.82 64.65)">
+		<g class="a" transform="translate(-2263.82 -64.65)">
+			<circle class="d" cx="6" cy="6" r="6"/>
+			<circle class="c" cx="6" cy="6" r="5.5"/>
+		</g>
+		<path class="b" d="M.344.344,5.5,5.5" transform="translate(-2254.32 -55.15)"/>
+	</g>
+	<rect class="c" height="16" transform="translate(0.007 0.008)" width="16"/>
+</svg>

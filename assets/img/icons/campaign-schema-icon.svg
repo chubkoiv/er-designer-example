@@ -1,0 +1,20 @@
+<svg height="16.001" viewBox="0 0 16.001 16.001" width="16.001" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.we-item-campaign-a, .we-item-campaign-b {
+			fill: none;
+		}
+
+		.we-item-campaign-b {
+			stroke: #006ce0;
+			stroke-miterlimit: 10;
+		}</style>
+	</defs>
+	<rect class="we-item-campaign-a" height="16" width="16"/>
+	<g transform="translate(465.758 212.846)">
+		<g transform="translate(-0.231 -0.049)">
+			<path class="we-item-campaign-b" d="M-450.026-210.3v10l-15-3.889v-1.667Z"/>
+			<path class="we-item-campaign-b" d="M-463.432-207.518l-.037,3.392,1.037,6.093h3.5l-2.327-5.48"
+			      transform="translate(1.406 0.737)"/>
+		</g>
+	</g>
+</svg>

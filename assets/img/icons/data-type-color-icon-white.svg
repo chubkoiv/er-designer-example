@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg274"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs232">
+    <style
+       id="style230">.a, .b {
+			fill: none;
+		}
+
+		.b {
+			stroke: #8095b3;
+			stroke-miterlimit: 10;
+		}
+
+		.c {
+			fill: rgba(128, 149, 179, 0.8);
+		}
+
+		.d {
+			fill: rgba(128, 149, 179, 0.4);
+		}
+
+		.e {
+			fill: rgba(128, 149, 179, 0.6);
+		}
+
+		.f {
+			fill: rgba(128, 149, 179, 0.2);
+		}</style>
+  </defs>
+  <path
+     class="c"
+     d="M806.782-92.13c2.084.007,2.813.35,4.468,1.861l-1.875,2.424-2.95-1.229Z"
+     transform="translate(-798.326 92.909)"
+     id="path258"
+     style="fill:#ffffff" />
+  <path
+     class="d"
+     d="M805.793-77.464c-2.083-.006-2.813-.35-4.467-1.861l1.875-2.424,2.949,1.229Z"
+     transform="translate(-798.326 92.909)"
+     id="path260"
+     style="fill:#ffffff" />
+  <path
+     class="e"
+     d="M813.826-84.578c-.064,2.22-.431,3.006-2,4.809l-2.4-1.931,1.322-3.175Z"
+     transform="translate(-798.326 92.909)"
+     id="path262"
+     style="fill:#ffffff" />
+  <path
+     class="f"
+     d="M798.955-85.291c.006-2.084.35-2.814,1.86-4.468l2.425,1.875-1.229,2.949Z"
+     transform="translate(-798.326 92.909)"
+     id="path264"
+     style="fill:#ffffff" />
+  <path
+     class="c"
+     d="M811.735-89.833c1.5,1.443,1.8,2.195,1.949,4.431l-3.03.46-1.286-2.925Z"
+     transform="translate(-798.326 92.909)"
+     id="path266"
+     style="fill:#ffffff" />
+  <path
+     class="d"
+     d="M800.9-79.9c-1.5-1.443-1.795-2.195-1.948-4.43l3.029-.46,1.287,2.925Z"
+     transform="translate(-798.326 92.909)"
+     id="path268"
+     style="fill:#ffffff" />
+  <path
+     class="e"
+     d="M811.619-79.506c-1.578,1.562-2.386,1.878-4.769,2.1l-.4-3.055,3.149-1.384Z"
+     transform="translate(-798.326 92.909)"
+     id="path270"
+     style="fill:#ffffff" />
+  <path
+     class="f"
+     d="M801.352-90.287c1.442-1.5,2.194-1.794,4.429-1.948l.461,3.03-2.926,1.286Z"
+     transform="translate(-798.326 92.909)"
+     id="path272"
+     style="fill:#ffffff" />
+</svg>

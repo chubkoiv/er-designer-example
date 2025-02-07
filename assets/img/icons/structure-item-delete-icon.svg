@@ -1,0 +1,30 @@
+<svg height="16" viewBox="0 0 16 16" width="16"
+     xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>.a {
+			fill: none;
+		}
+
+		.b {
+			clip-path: url(#a);
+		}
+
+		.c {
+			fill: #4e7bd8;
+		}</style>
+		<clipPath id="a">
+			<rect class="a" height="16" width="16"/>
+		</clipPath>
+	</defs>
+	<g class="b">
+		<g transform="translate(2 1)">
+			<rect class="c" height="7" transform="translate(3 4)" width="1"/>
+			<rect class="c" height="7" transform="translate(7 4)" width="1"/>
+			<rect class="c" height="7" transform="translate(5 4)" width="1"/>
+			<path class="c"
+			      d="M1026-153h-3v-2h-5v2h-3v1h1v8.9l1.41,1.1h6.15l1.45-1.1V-152h1Zm-7-1h3v1h-3Zm5,10.4-.78.6h-5.47l-.75-.59V-152h7Z"
+			      transform="translate(-1015 155)"/>
+		</g>
+		<rect class="a" height="16" width="16"/>
+	</g>
+</svg>

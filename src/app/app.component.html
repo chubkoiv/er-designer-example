@@ -1,0 +1,25 @@
+<div class="w-full h-full absolute">
+	@for (edge of commonStore.edgesEntities(); track edge.id) {
+		@for (edge of commonStore.edgesEntities(); track edge.id) {
+			<app-connection-line
+					[sourceId]="edge.sourceId"
+					[targetId]="edge.targetId"
+			></app-connection-line>
+		}
+	}
+
+	@for (node of commonStore.nodesEntities(); track node.id) {
+		<div class="w-10rem h-10rem border-1 border-round-md absolute overflow-hidden" cdkDrag
+		     [style.transform]="'translate(' + node.position.x + 'px, ' + node.position.y + 'px)'"
+		     (cdkDragEnded)="cdkDragAction(node, $event)"
+		     (cdkDragMoved)="cdkDragAction(node, $event)"
+		>
+			<div class="flex h-2rem bg-orange-500 border-bottom-1 border-gray-900 text-white align-items-center justify-content-center"
+			     cdkDragHandle
+			>
+				<!--				<label class="text-xs uppercase">{{ node.name }}</label>-->
+			</div>
+			<div class="w-full h-full bg-gray-50"></div>
+		</div>
+	}
+</div>

@@ -1,0 +1,3 @@
+# NgErdesignerExample
+
+Пример ER-дизайнера
